@@ -1,0 +1,27 @@
+{
+  "name": "famous_people",
+  "version": "1.0.0",
+  "description": "",
+  "main": "add_person.js",
+  "dependencies": {
+    "knex": "^0.14.2",
+    "pg": "^7.4.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bryanlampert/connecting-pg-from-js.git"
+  },
+  "scripts": {
+    "knex": "knex"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bryanlampert/connecting-pg-from-js/issues"
+  },
+  "homepage": "https://github.com/bryanlampert/connecting-pg-from-js#readme"
+}
